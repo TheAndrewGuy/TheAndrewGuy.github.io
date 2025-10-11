@@ -4,7 +4,7 @@ I make full systems & games.
 
 - Please take your time to read the portfolio.
 
-I can script things such as:
+## I can script things such as:
  - Round systems
  - Abilities 
  - Fighting (M1, weapons, e.t.c)
@@ -12,7 +12,7 @@ I can script things such as:
  - Datastores, leaderstats, Currencies 
  - And more! 
 
-I can not script things such as:
+## I can not script things such as:
  - Vehicles
  - Advanced matchmaking (Ex. Bedwars Matchmaking or matchmaking where you matchmake with random ppl from other servers.)
 
@@ -26,16 +26,19 @@ Here are some examples of my work:
 
 **Video:**
 [Watch here](https://youtu.be/vYKm3vXriBw)
-[Test](https://www.youtube.com/embed/vYKm3vXriBw)
 
-**Pricing:**
+**Games I've solo scripted:**
+https://www.roblox.com/games/135472949647788/Abandoned-EARLY-RELEASE#!/game-instances
+https://www.roblox.com/games/118698847698319/Short-Urban-Legends-Stories
+
+## Pricing:
 - I only accept robux.
 - You do not have to cover tax.
 - For most things it will be 1.5K per system.
 - The price can increase according to the system.
 - I'll let you know if the price of a system is different.
 
-**Notes:**
+## Notes:
 - Before I do another system, you must pay me after I finish 1.
 - I will record a vid/screenshare a system, I won't give you the system until you pay me for so.
 - Giving a review after I finish is not needed, but appreciated.
