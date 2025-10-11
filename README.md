@@ -1,5 +1,19 @@
-# TheAndrewGuy.github.io
+# Lune - Roblox Scripter
+Hi!, Am Lune. I have been scripting for 4-6 years.
+I make full systems & games.
 
-hi.
+I can script things such as:
+ - Round systems
+ - Abilities 
+ - Fighting (M1, weapons, e.t.c)
+ - UI (Shops, Inventories) 
+ - Datastores, leaderstats, Currencies 
+ - Awakenings (like in blr,TSB)
+ - Movement (crouching, scripting)
+ - Dialogues (cutscenes too) 
+ - Objectives 
+ - And more! 
 
-https://github.com/user-attachments/assets/490afd38-a0cd-4523-a136-687b595c9900
+I can not script things such as:
+ - Vehicles
+ - Advanced matchmaking (Ex. Bedwars Matchmaking or matchmaking where you matchmake with random ppl from other servers.)
