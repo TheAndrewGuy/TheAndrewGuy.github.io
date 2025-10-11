@@ -29,7 +29,7 @@ I make full systems & games.
 
 ## Games I've solo scripted:
 
-[Forsaken/DBD-like game](https://www.roblox.com/games/135472949647788/Abandoned-EARLY-RELEASE#!/game-instances_
+[Forsaken/DBD-like game](https://www.roblox.com/games/135472949647788/Abandoned-EARLY-RELEASE#!/game-instances)
 [Horror Stories Game](https://www.roblox.com/games/118698847698319/Short-Urban-Legends-Stories)
 
 ## Pricing:
