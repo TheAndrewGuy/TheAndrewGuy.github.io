@@ -26,7 +26,7 @@ Here are some examples of my work:
 
 **Video:**
 [Watch here](https://youtu.be/vYKm3vXriBw)
-
+[Test](https://www.youtube.com/embed/vYKm3vXriBw)
 
 **Pricing:**
 - I only accept robux.
@@ -36,3 +36,6 @@ Here are some examples of my work:
 - I'll let you know if the price of a system is different.
 
 **Notes:**
+- Before I do another system, you must pay me after I finish 1.
+- I will record a vid/screenshare a system, I won't give you the system until you pay me for so.
+- Giving a review after I finish is not needed, but appreciated.
