@@ -17,3 +17,4 @@ I can not script things such as:
 Here are some examples of my work:
 
 <img width="708" height="547" alt="image" src="https://github.com/user-attachments/assets/32cae5cd-d4ac-42c4-962e-960b2b0922f4" />
+<img width="1013" height="529" alt="image" src="https://github.com/user-attachments/assets/a232da56-159e-407b-a369-5639cdf6ae9f" />
