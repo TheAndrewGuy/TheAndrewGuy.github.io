@@ -25,7 +25,13 @@ Here are some examples of my work:
 <img width="1006" height="625" alt="image" src="https://github.com/user-attachments/assets/0a5a7d23-cf98-48d1-909c-5f6dee2ef345" />
 
 **Video:**
-https://youtu.be/vYKm3vXriBw
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/vYKm3vXriBw" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
 
 **Pricing:**
 - I only accept robux.
