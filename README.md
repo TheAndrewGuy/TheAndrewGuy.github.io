@@ -24,6 +24,14 @@ Here are some examples of my work:
 <img width="1020" height="499" alt="image" src="https://github.com/user-attachments/assets/21264aab-3cb5-40b5-b5e1-b26fb7090d40" />
 <img width="1006" height="625" alt="image" src="https://github.com/user-attachments/assets/0a5a7d23-cf98-48d1-909c-5f6dee2ef345" />
 
-
 **Video:**
 https://youtu.be/vYKm3vXriBw
+
+**Pricing:**
+- I only accept robux.
+- You do not have to cover tax.
+- For most things it will be 1.5K per system.
+- The price can increase according to the system.
+- I'll let you know if the price of a system is different.
+
+**Notes:**
