@@ -16,7 +16,7 @@ I make full systems & games.
  - Vehicles
  - Advanced matchmaking (Ex. Bedwars Matchmaking or matchmaking where you matchmake with random ppl from other servers.)
 
-Here are some examples of my work:
+## Here are some examples of my work:
 
 **Scripts:**
 
@@ -27,7 +27,8 @@ Here are some examples of my work:
 **Video:**
 [Watch here](https://youtu.be/vYKm3vXriBw)
 
-**Games I've solo scripted:**
+## Games I've solo scripted:
+
 https://www.roblox.com/games/135472949647788/Abandoned-EARLY-RELEASE#!/game-instances
 https://www.roblox.com/games/118698847698319/Short-Urban-Legends-Stories
 
