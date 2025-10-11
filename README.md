@@ -29,8 +29,8 @@ I make full systems & games.
 
 ## Games I've solo scripted:
 
-https://www.roblox.com/games/135472949647788/Abandoned-EARLY-RELEASE#!/game-instances
-https://www.roblox.com/games/118698847698319/Short-Urban-Legends-Stories
+[Forsaken/DBD-like game](https://www.roblox.com/games/135472949647788/Abandoned-EARLY-RELEASE#!/game-instances_
+[Horror Stories Game](https://www.roblox.com/games/118698847698319/Short-Urban-Legends-Stories)
 
 ## Pricing:
 - I only accept robux.
