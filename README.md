@@ -1,5 +1,5 @@
 # Lune - Roblox Scripter
-Hi!, Am Lune. I have been scripting for 4-6 years.
+Hi!, I'm Lune. I have been scripting for 4-6 years.
 I make full systems & games.
 
 - Please take your time to read the portfolio.
