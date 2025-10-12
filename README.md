@@ -36,7 +36,7 @@ I make full systems & games.
 ## Pricing:
 - I only accept robux.
 - You do not have to cover tax.
-- If am contacting you, The price doesn't have to be per system.
+- If am contacting you, you can ignore everything below.
 - For most things it will be 1.5K per system.
 - The price can increase according to the system.
 - I'll let you know if the price of a system is different.
