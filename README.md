@@ -9,12 +9,13 @@ I make full systems & games.
  - Abilities 
  - Fighting (M1, weapons, e.t.c)
  - UI (Shops, Inventories, e.t.c) 
- - Datastores, leaderstats, Currencies 
+ - Datastores, leaderstats, Currencies
+ - Dialogue, Story games
  - And more! 
 
 ## I can not script things such as:
  - Vehicles
- - Advanced matchmaking (Ex. Bedwars Matchmaking or matchmaking where you matchmake with random ppl from other servers.)
+ - Advanced matchmaking (Ex. Roblox Bedwars Matchmaking)
 
 ## Here are some examples of my work:
 
@@ -31,17 +32,9 @@ I make full systems & games.
 
 [Forsaken/DBD-like game](https://www.roblox.com/games/135472949647788/Abandoned-EARLY-RELEASE#!/game-instances)
 
-[Horror Stories Game](https://www.roblox.com/games/118698847698319/Short-Urban-Legends-Stories)
+[Horror Stories Game (SOLD)](https://www.roblox.com/games/118698847698319/Short-Urban-Legends-Stories)
+
+[Undertale inspired story game (SOLD)](https://www.roblox.com/games/132173312933277/Yourself)
 
 ## Pricing:
 - I only accept robux.
-- You do not have to cover tax.
-- If am contacting you, you can ignore everything below.
-- For most things it will be 1.5K per system.
-- The price can increase according to the system.
-- I'll let you know if the price of a system is different.
-
-## Notes:
-- Before I do another system, you must pay me after I finish 1.
-- I will record a vid/screenshare a system, I won't give you the system until you pay me for so.
-- Giving a review after I finish is not needed, but appreciated.
