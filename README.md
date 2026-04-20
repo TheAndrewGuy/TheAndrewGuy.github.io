@@ -1,8 +1,6 @@
 # Lune Portfolio - Roblox Scripter
-Hi!, I'm Lune. I have been scripting for 4-6 years.
+Hi!, I'm Lune. I have been scripting for 3-4 years.
 I make full systems & games.
-
-- Please take your time to read the portfolio.
 
 ## I can script things such as:
  - Round systems
@@ -30,11 +28,12 @@ I make full systems & games.
 
 ## Games I've solo scripted:
 
-[Forsaken/DBD-like game](https://www.roblox.com/games/135472949647788/Abandoned-EARLY-RELEASE#!/game-instances)
+[MM2-like game](https://www.roblox.com/games/118616138587080/Knife-Roulette)
+
+[Forsaken/Outcome Memories/DBD-like game](https://www.roblox.com/games/135472949647788/Abandoned-EARLY-RELEASE#!/game-instances)
 
 [Horror Stories Game (SOLD)](https://www.roblox.com/games/118698847698319/Short-Urban-Legends-Stories)
 
 [Undertale inspired story game (SOLD)](https://www.roblox.com/games/132173312933277/Yourself)
 
-## Pricing:
-- I only accept robux.
+
