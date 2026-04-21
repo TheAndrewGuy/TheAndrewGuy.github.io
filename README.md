@@ -24,7 +24,7 @@ I make full systems & games.
 <img width="1006" height="625" alt="image" src="https://github.com/user-attachments/assets/0a5a7d23-cf98-48d1-909c-5f6dee2ef345" />
 
 **Video:**
-[Watch here](https://youtu.be/vYKm3vXriBw)
+[Watch here](https://www.youtube.com/watch?v=kvY9_ehoJ5Q)
 
 ## Games I've solo scripted:
 
