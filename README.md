@@ -1,4 +1,4 @@
-<img width="1589" height="903" alt="image" src="https://github.com/user-attachments/assets/b29f1084-f3ba-41f8-9a61-bb0684f5fccf" /># Lune Portfolio - Roblox Scripter
+# Lune Portfolio - Roblox Scripter
 Hi!, I'm Lune. I have been scripting for 3-4 years.
 I make full systems & games.
 
