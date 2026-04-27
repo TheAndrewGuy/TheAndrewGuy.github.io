@@ -44,7 +44,7 @@ I make full systems & games.
 <img width="1723" height="563" alt="image" src="https://github.com/user-attachments/assets/e312874d-5f83-45d7-b20f-d5aef834b5bf" />
 
 - Nitrotype non-signed in test, 148 wpm
-<img width="1589" height="903" alt="image" src="https://github.com/user-attachments/assets/1e96d5a2-1a06-4a7a-a1af-642fb195bbfd" />
+<img width="1723" height="563" alt="image" src="https://github.com/user-attachments/assets/1e96d5a2-1a06-4a7a-a1af-642fb195bbfd" />
 
 - Typingtest 30 second easy test, 132 wpm
 <img width="814" height="321" alt="image" src="https://github.com/user-attachments/assets/269d8f06-6a3b-4244-a61b-cbef007663c5" />
