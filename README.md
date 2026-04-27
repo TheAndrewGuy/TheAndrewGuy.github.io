@@ -1,4 +1,4 @@
-# Lune Portfolio - Roblox Scripter
+<img width="1589" height="903" alt="image" src="https://github.com/user-attachments/assets/b29f1084-f3ba-41f8-9a61-bb0684f5fccf" /># Lune Portfolio - Roblox Scripter
 Hi!, I'm Lune. I have been scripting for 3-4 years.
 I make full systems & games.
 
@@ -35,5 +35,18 @@ I make full systems & games.
 [Horror Stories Game (SOLD)](https://www.roblox.com/games/118698847698319/Short-Urban-Legends-Stories)
 
 [Undertale inspired story game (SOLD)](https://www.roblox.com/games/132173312933277/Yourself)
+
+## Achievements:
+
+# Avg WPM
+
+- Monkeytype 30 second test, 146 wpm 
+<img width="1723" height="563" alt="image" src="https://github.com/user-attachments/assets/e312874d-5f83-45d7-b20f-d5aef834b5bf" />
+
+- Nitrotype non-signed in test, 148 wpm
+<img width="1589" height="903" alt="image" src="https://github.com/user-attachments/assets/1e96d5a2-1a06-4a7a-a1af-642fb195bbfd" />
+
+- Typingtest 30 second easy test, 132 wpm
+<img width="814" height="321" alt="image" src="https://github.com/user-attachments/assets/269d8f06-6a3b-4244-a61b-cbef007663c5" />
 
 
