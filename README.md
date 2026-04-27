@@ -45,6 +45,8 @@ I make full systems & games.
 
 - Nitrotype non-signed in test, 148 wpm
 <img width="814" height="321" alt="image" src="https://github.com/user-attachments/assets/1e96d5a2-1a06-4a7a-a1af-642fb195bbfd" />
+<img width="814" height="321" alt="image" src="https://github.com/user-attachments/assets/0e52a196-d469-4890-8dd7-f331a0a34371" />
+
 
 - Typingtest 30 second easy test, 132 wpm
 <img width="814" height="321" alt="image" src="https://github.com/user-attachments/assets/269d8f06-6a3b-4244-a61b-cbef007663c5" />
