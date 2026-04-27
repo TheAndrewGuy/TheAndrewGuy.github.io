@@ -2,7 +2,7 @@
 Hi!, I'm Lune. I have been scripting for 3-4 years.
 I make full systems & games.
 
-## I can script things such as:
+# I can script things such as:
  - Round systems
  - Abilities 
  - Fighting (M1, weapons, e.t.c)
@@ -11,11 +11,11 @@ I make full systems & games.
  - Dialogue, Story games
  - And more! 
 
-## I can not script things such as:
+# I can not script things such as:
  - Vehicles
  - Advanced matchmaking (Ex. Roblox Bedwars Matchmaking)
 
-## Here are some examples of my work:
+# Here are some examples of my work:
 
 **Scripts:**
 
@@ -26,7 +26,7 @@ I make full systems & games.
 **Video:**
 [Watch here](https://www.youtube.com/watch?v=kvY9_ehoJ5Q)
 
-## Games I've solo scripted:
+# Games I've solo scripted:
 
 [MM2-like game](https://www.roblox.com/games/118616138587080/Knife-Roulette)
 
@@ -36,15 +36,14 @@ I make full systems & games.
 
 [Undertale inspired story game (SOLD)](https://www.roblox.com/games/132173312933277/Yourself)
 
-## Achievements:
+# Achievements:
 
-# Avg WPM
+## Avg WPM
 
 - Monkeytype 30 second test, 146 wpm 
 <img width="814" height="321" alt="image" src="https://github.com/user-attachments/assets/e312874d-5f83-45d7-b20f-d5aef834b5bf" />
 
 - Nitrotype non-signed in test, 148 wpm
-<img width="814" height="321" alt="image" src="https://github.com/user-attachments/assets/1e96d5a2-1a06-4a7a-a1af-642fb195bbfd" />
 <img width="814" height="321" alt="image" src="https://github.com/user-attachments/assets/0e52a196-d469-4890-8dd7-f331a0a34371" />
 
 
